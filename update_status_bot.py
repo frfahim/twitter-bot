@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import tweepy
 
 #import twitter apps configaration file from config.py file
